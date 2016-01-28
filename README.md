@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Unit Testing Tutorial
 
 This is an update to Doug Hellman's excellent PyMOTW article found here:
@@ -397,3 +398,7 @@ In tearDown()
 ## Test Suites
 
 The standard library documentation describes how to organize test suites manually. I generally do not use test suites directly, because I prefer to build the suites automatically (these are automated tests, after all). Automating the construction of test suites is especially useful for large code bases, in which related tests are not all in the same place. Tools such as nose make it easier to manage tests when they are spread over multiple files and directories.
+=======
+# Test
+Testing for git repository
+>>>>>>> origin/master
